@@ -26,6 +26,8 @@ I have a good experience with accessibility and a large knowledge about SEO
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </div>
 
+  <a href="https://on.contra.com/JTF7dB"> contra portfolio </a>
+
 
 <!---
 Zyadwalid1/Zyadwalid1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
