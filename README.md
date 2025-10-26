@@ -26,7 +26,7 @@ I have a good experience with accessibility and a large knowledge about SEO
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </div>
 
-  <a href="https://on.contra.com/JTF7dB"> contra portfolio </a>
+  <a href="(https://zyad-walid.vercel.app/)"> My Portfolio </a>
 
 
 <!---
